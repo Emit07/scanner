@@ -2,9 +2,7 @@
 import socket
 import threading
 from queue import Queue
-import argparse
 import sys
-import socket
 import time
 import os
 
